@@ -1,0 +1,5 @@
+train: /Users/ohmstylex/Desktop/AutoClick/yolov5/dataset/images/train
+val: /Users/ohmstylex/Desktop/AutoClick/yolov5/dataset/images/val
+
+nc: 1
+names: ['purple']
